@@ -13,6 +13,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git small https://github.com/kenzok8/small
 
-#src-git kenOK https://github.com/zhongfab/packages-zhongfab.git
+src-git kenOK https://github.com/zhongfab/packages-zhongfab.git
 
 #src-git adblockplus https://github.com/zhongfab/luciappadblockplus.git
