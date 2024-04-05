@@ -18,4 +18,4 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 
-git clone https://github.com/zhongfab/packages-zhongfab package/tomato-extend
+#git clone https://github.com/zhongfab/packages-zhongfab package/tomato-extend
